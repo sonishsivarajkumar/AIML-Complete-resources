@@ -1,4 +1,4 @@
-# AIML-Copmplete-resources
+# AIML-Complete-resources
 A comprehensive list of all the courses in Artificial Intelligence and Machine Learning.
 
 Top Courses in machine learning, Deep Learning and Data Science for free.
